@@ -18,5 +18,5 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 
 | Nr.  | Thema       | Google Colab    | ggf. Folien  |
 | -----|:------------| :---------|:-------|
-| 3    | [Variablen und Variablentypen in R](https://github.com/polcomm-passau/computational-methods-kurs/blob/main/tutorials/variablen.md) | [Folien 2](https://github.com/polcomm-passau/computational-methods-kurs/files/9932424/Woche_2.pdf)| [R-Code 2.R](https://github.com/polcomm-passau/computational-methods-kurs/blob/main/tutorials/r_code/variables.R) |  |
+| 1    | [Variablen und Variablentypen in R](https://github.com/polcomm-passau/computational-methods-kurs/blob/main/tutorials/variablen.md) | [Folien 2](https://github.com/polcomm-passau/computational-methods-kurs/files/9932424/Woche_2.pdf)| [R-Code 2.R](https://github.com/polcomm-passau/computational-methods-kurs/blob/main/tutorials/r_code/variables.R) |  |
 
