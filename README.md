@@ -18,5 +18,5 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 
 | Nr.  | Thema       | Google Colab    | ggf. Folien  |
 | -----|:------------| :---------|:-------|
-| 1    | [Variablen und Variablentypen in R](https://github.com/polcomm-passau/computational-methods-kurs/blob/main/tutorials/variablen.md) | [Folien 2](https://github.com/polcomm-passau/computational-methods-kurs/files/9932424/Woche_2.pdf)| [R-Code 2.R](https://github.com/polcomm-passau/computational-methods-kurs/blob/main/tutorials/r_code/variables.R) |  |
+| 1    | Python Basics (Variablen, Variablentypen, Variablenbenennung) | [Notebook 1](https://colab.research.google.com/drive/1w0iSbeYxvoevGCAXq0TKbdLHNYsa1eIJ?usp=sharing)| [Folien 1](https://github.com/polcomm-passau/computational-methods-kurs/blob/main/tutorials/r_code/variables.R) |  
 
