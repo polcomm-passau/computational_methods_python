@@ -19,4 +19,11 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 | Nr.  | Thema       | Google Colab    | ggf. Folien  |
 | -----|:------------| :---------|:-------|
 | 1    | Python Basics (Variablen, Variablentypen, Variablenbenennung) | [Notebook 1](https://colab.research.google.com/drive/1w0iSbeYxvoevGCAXq0TKbdLHNYsa1eIJ?usp=sharing)| [Folien 1](https://github.com/polcomm-passau/computational_methods_python/blob/main/files/Sitzung_1.pdf) |  
+| 2    | Schleifen, Bedignungen, Funktionen |[Notebook 2](https://colab.research.google.com/drive/1KJlrXlFWt8VTjBfjUx8OTIFtfVbL0dr4?usp=sharing)|
+
+## Übungen 
+
+| Nr.  | Aufgabenblatt     | Abgabe|
+| -----|------------------:|------:|
+|    1 | [Aufgabenblatt 1](https://colab.research.google.com/drive/1axkPOdufMKGpmo8TrU1z_Qqj10WUZDUr?usp=sharing)| 09.11.2022|
 
