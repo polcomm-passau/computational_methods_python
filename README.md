@@ -21,6 +21,11 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 | 1    | Python Basics (Variablen, Variablentypen, Variablenbenennung) | [Notebook 1](https://colab.research.google.com/drive/1w0iSbeYxvoevGCAXq0TKbdLHNYsa1eIJ?usp=sharing)| [Folien 1](https://github.com/polcomm-passau/computational_methods_python/blob/main/files/Sitzung_1.pdf) |  
 | 2    | Schleifen, Bedignungen, Funktionen |[Notebook 2](https://colab.research.google.com/drive/1KJlrXlFWt8VTjBfjUx8OTIFtfVbL0dr4?usp=sharing)|
 
+## Data Wrangling
+| Nr.  | Thema       | Google Colab    | ggf. Folien  |
+| -----|:------------| :---------|:-------|
+|  3   | Daten einlesen, speichern, bearbeiten | [Notebook 3](https://colab.research.google.com/drive/1t21J7bpyPdTlltlu_BMGpRvmPjG20_lN?usp=sharing)| [Studenten_Datensatz.csv](https://github.com/polcomm-passau/computational_methods_python/files/13312956/Studenten_Datensatz.csv)|
+
 ## Übungen 
 
 | Nr.  | Aufgabenblatt     | Abgabe|
