@@ -18,7 +18,7 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 
 | Nr.  | Thema       | Google Colab    | ggf. Folien  |
 | -----|:------------| :---------|:-------|
-| 1    | **Python Basics** (Variablen, Variablentypen, Variablenbenennung) | [Notebook 1](https://colab.research.google.com/drive/1w0iSbeYxvoevGCAXq0TKbdLHNYsa1eIJ?usp=sharing)| [Folien 1](https://github.com/polcomm-passau/computational_methods_python/blob/main/files/Sitzung_1.pdf) |  
+| 1    | **Python Basics** \n (Variablen, Variablentypen, Variablenbenennung) | [Notebook 1](https://colab.research.google.com/drive/1w0iSbeYxvoevGCAXq0TKbdLHNYsa1eIJ?usp=sharing)| [Folien 1](https://github.com/polcomm-passau/computational_methods_python/blob/main/files/Sitzung_1.pdf) |  
 | 2    | **Schleifen, Bedignungen, Funktionen** |[Notebook 2](https://colab.research.google.com/drive/1KJlrXlFWt8VTjBfjUx8OTIFtfVbL0dr4?usp=sharing)|
 |  3   | **Data Wrangling I** (Datensätze einlesen, filtern, bearbeiten und speichern)| [Notebook 3](https://colab.research.google.com/drive/1t21J7bpyPdTlltlu_BMGpRvmPjG20_lN?usp=sharing)| [Studenten_Datensatz.csv](https://github.com/polcomm-passau/computational_methods_python/files/13312956/Studenten_Datensatz.csv)|
 | 4    | **Data Wrangling II** (Datensätze grupieren, sortieren, kreeiern, zusammenfügen und fehlende Werte behandeln) | [Notebook 4](https://colab.research.google.com/drive/18y6Y5PELOOvU4fuIYkts8HOMwZNFfXaL?usp=sharing)| |
