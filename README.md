@@ -29,4 +29,5 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 | Nr.  | Aufgabenblatt     | Abgabe|
 | -----|------------------:|------:|
 |    1 | [Aufgabenblatt 1](https://colab.research.google.com/drive/1axkPOdufMKGpmo8TrU1z_Qqj10WUZDUr?usp=sharing)| 09.11.2023|
+|    2|  [Aufgabenblatt 2](https://colab.research.google.com/drive/16iwWpIz3YaxvS5TLPi8f9_2_R4pLYW3X?usp=sharing)| 04.12.2023|
 
