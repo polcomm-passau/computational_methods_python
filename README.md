@@ -23,6 +23,8 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 |  3   | **Data Wrangling I** <br /> Datensätze einlesen, filtern, bearbeiten und speichern| [Notebook 3](https://colab.research.google.com/drive/1t21J7bpyPdTlltlu_BMGpRvmPjG20_lN?usp=sharing)| [Studenten_Datensatz.csv](https://github.com/polcomm-passau/computational_methods_python/files/13312956/Studenten_Datensatz.csv)|
 | 4    | **Data Wrangling II** <br /> Datensätze grupieren, sortieren, kreeiern, zusammenfügen und fehlende Werte behandeln | [Notebook 4](https://colab.research.google.com/drive/18y6Y5PELOOvU4fuIYkts8HOMwZNFfXaL?usp=sharing)| |
 | 5    | **Computational Hygiene & ChatGPT** </br> Prompt Engineering | [Notebook 5](https://colab.research.google.com/drive/1ew1ASC9VEyst8kaM_FB74K0HG3ACi6Uz?usp=sharing)| |
+| 6    | **Text als Daten** </br> Textdaten bearbeiten | [Notebook 6](https://colab.research.google.com/drive/1QqOxEPJJws5ZsAY6cV6SUdTTHaUd3L1h?usp=sharing)| [dirty_schlagzeilen.csv](https://github.com/polcomm-passau/computational_methods_python/files/13457080/dirty_schlagzeilen.csv)
+|
 
 ## Übungen 
 
