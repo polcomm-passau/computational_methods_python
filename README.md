@@ -25,6 +25,7 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 | 5    | **Computational Hygiene & ChatGPT** </br> Prompt Engineering | [Notebook 5](https://colab.research.google.com/drive/1ew1ASC9VEyst8kaM_FB74K0HG3ACi6Uz?usp=sharing)| |
 | 6    | **Text als Daten** </br> Textdaten bearbeiten | [Notebook 6](https://colab.research.google.com/drive/1QqOxEPJJws5ZsAY6cV6SUdTTHaUd3L1h?usp=sharing)| [dirty_schlagzeilen.csv](https://github.com/polcomm-passau/computational_methods_python/files/13457080/dirty_schlagzeilen.csv)
 | 7   |  **APIs** |[Notebook 7](https://colab.research.google.com/drive/1Uy284RVrpl0xovUF4C1Sj2Dfes6_TMi1?usp=sharing)| |
+| 8   | **YouTube API** [Notebook 8](https://colab.research.google.com/drive/1ZNPJ2p-OAVWVZDgNCQ9_hUcIr5FzLFZN?usp=sharing)| |
 
 ## Übungen 
 
