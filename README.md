@@ -27,6 +27,7 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 | 7   |  **APIs** |[Notebook 7](https://colab.research.google.com/drive/1Uy284RVrpl0xovUF4C1Sj2Dfes6_TMi1?usp=sharing)| |
 | 8   | **YouTube API**| [Notebook 8](https://colab.research.google.com/drive/1ZNPJ2p-OAVWVZDgNCQ9_hUcIr5FzLFZN?usp=sharing)| |
 | 9 | **Web Scraping**| [Notebook 9](https://colab.research.google.com/drive/1I2f4_ftkRrzDUCrw8qf-dSfgokElBZO0?usp=sharing)| |
+| 10| **Dynamische Webseiten mit Selenium scrapen** |[Notebook 10](https://colab.research.google.com/drive/11SznpH3pWpxEueA2jSSPe6y9YGejagJj?usp=sharing)| |
 
 ## Übungen 
 
