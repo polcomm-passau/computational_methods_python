@@ -37,3 +37,5 @@ Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datens
 |    2|  [Aufgabenblatt 2](https://colab.research.google.com/drive/16iwWpIz3YaxvS5TLPi8f9_2_R4pLYW3X?usp=sharing)| 04.12.2023|
 |    3|  [Aufgabenblatt 3](https://colab.research.google.com/drive/1sOwrQTS9t6x9E-m8L4coz4nN4HyzJV1D?usp=sharing)| 18.12.2023|
 |    4|  [Aufgabenblatt 4](https://colab.research.google.com/drive/13AoZOrsyhY_S_y88P_fCId5dBTP9LqlU?usp=sharing)| 23.12.2023|
+|    5| Aufgabenblatt 5 (Prof. Florian Toepfl)| |
+|    6| [Aufgabenblatt 6](https://colab.research.google.com/drive/1KksBLVL4895WIRX8pTn22cUpAqeGpO8g?usp=sharing)| 29.01.2024|
