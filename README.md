@@ -7,12 +7,12 @@ Urheber der Materialien: Prof. Florian Töpfl (<florian.toepfl@uni-passau.de>), 
 Den Syllabus für den Kurs im WS24/25 @UniPassau finden sie [hier](https://syncandshare.lrz.de/getlink/fi5MVQmZTSNPVuA6qC69TV/2024-25_Seminarplan_Datensammlung%20inkl.%20Uebung.docx).
 
   
-Dies ist ein ***Work-in-Progress*** und wird laufend aktualisiert.
+Diese Webseite ist ***work-in-progress*** und wird laufend aktualisiert.
 
 Themen & Materialien 
 ---------------
 
-Hier finden Sie diverse Kursmaterialien für die Lehre von Automatisieren Datensammlung und Analyse mit Python. Wir freuen uns sehr über Ihr Feedback oder Verbesserungsvorschläge!
+Hier finden Sie die Kursmaterialien für das Seminar "Automatisierte Datensammlung und Analyse mit Python". Wir freuen uns sehr über Ihr Feedback oder Verbesserungsvorschläge!
 
 ## Einführung in Python
 
