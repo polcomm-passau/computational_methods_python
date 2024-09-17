@@ -2,9 +2,9 @@
 
 *Lehrstuhl für Politische Kommunikation, Universität Passau* 
 
-Dozenten: Prof. Florian Töpfl (<florian.toepfl@uni-passau.de>), Daria Kravets (<daria.kravets@uni-passau.de>)
+Urheber der Materialien: Prof. Florian Töpfl (<florian.toepfl@uni-passau.de>), Daria Kravets (<daria.kravets@uni-passau.de>)
 
-Syllabus für den Kurs im WS23/24 @UniPassau finden sie [hier](https://syncandshare.lrz.de/open/MlNpeGNFOGZjTDQ1eGROQk5Zb1dM/WS_23_24/Automatisierte%20Datensammlung/2023_09_26_Seminarplan_Datensammlung%2BUebung.docx?filelink_id=fiWWDJnGyerXAaodj7DiK2).
+Den Syllabus für den Kurs im WS24/25 @UniPassau finden sie [hier](https://syncandshare.lrz.de/getlink/fi5MVQmZTSNPVuA6qC69TV/2024-25_Seminarplan_Datensammlung%20inkl.%20Uebung.docx).
 
   
 Dies ist ein ***Work-in-Progress*** und wird laufend aktualisiert.
